@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying on **Instituto Federal de Rondônia**
 
-- 💻 My professional profile on github [https://github.com/devsKauan](https://github.com/devsKauan)
-
 - 🌱 I’m currently learning **C# and JavaScript**
 
 - 💬 Ask me about **Vue.js, Git, C#, JavaScript**
