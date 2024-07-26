@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Instituto Federal de Rondônia**
 
-- 🌱 I’m currently learning **C# and JavaScript**
+- 🌱 I’m currently learning **C#, Node.js and JavaScript**
 
 - 💬 Ask me about **Vue.js, Git, C#, JavaScript**
 
